@@ -1,0 +1,1170 @@
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Table 'bdpersona.tpersona123' doesn't exist
+Query: SELECT * FROM bdpersona.tpersona123;
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Table 'bdpersona.tpersona123' doesn't exist
+Query: SELECT * FROM bdpersona.tpersona123;
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Table 'bdpersona.usuario' doesn't exist
+Query: select * from usuario where email = 'admin@isc.com' and password = '123456'and habilitado = 1
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Table 'bdsyscitas.tpersona' doesn't exist
+Query: SELECT * FROM tpersona;
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Duplicate entry 'LAPAROSCOPIA' for key 'nombres_UNIQUE'
+Query: call spu_insertarEsp ('LAPAROSCOPIA');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE bdsyscitas.spu_recuperarUnaEsp; expected 1, got 2
+Query: call spu_recuperarUnaEsp('E000','XCV');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('SDG','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('','','','','', '','','');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Unknown column 'idtrabajador' in 'field list'
+Query: call spu_insertarTrab('BRAYAN ZAMALLOA PARO','12345678','AV. LOS ALAMOS G-7','brayan@isc.com','TRABAJADOR', '987654321','error.jpg','E002');
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Duplicate entry '0' for key 'PRIMARY'
+Query: insert into dia values('','LUNES','07:30:00')
+
+File: C:\xampp\htdocs\SysCitas\Admin-isc\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: Column 'idtrabajador' cannot be null
+Query: call spu_insertarHorario('T000','LUNES','08:00:00');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_insertarEspecie; expected 13, got 12
+Query: call spu_insertarEspecie('FDFD','','','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','','1.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_insertarEspecie; expected 13, got 12
+Query: call spu_insertarEspecie('FDFD','','','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','','1.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_insertarEspecie; expected 13, got 12
+Query: call spu_insertarEspecie('','','','','', '','','','','','','error.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_insertarEspecie; expected 13, got 12
+Query: call spu_insertarEspecie('FDFD','','','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','','1.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_insertarEspecie; expected 13, got 12
+Query: call spu_insertarEspecie('FDFD','','','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','','16711781_718597434977989_6570125186783352151_n.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_insertarEspecie; expected 13, got 12
+Query: call spu_insertarEspecie('','','','','', '','','','','','','error.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_insertarEspecie; expected 13, got 12
+Query: call spu_insertarEspecie('FDFD','','','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','','18921872_780202758817456_369381803800544496_n.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_insertarEspecie; expected 13, got 12
+Query: call spu_insertarEspecie('FDFD','','','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','','16711898_718595928311473_8862015451311867998_n.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_insertarEspecie; expected 13, got 12
+Query: call spu_insertarEspecie('FDFD','','','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','','WhatsApp Image 2018-04-19 at 1.19.56 PM.jpeg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect integer value: 'H001' for column 'pidFamilia' at row 1
+Query: call spu_insertarEspecie('FDFD','H001','H001','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','H000','1.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.recuperarUnaEspecie does not exist
+Query: call recuperarUnaEspecie('1');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.recuperarUnaEspecie does not exist
+Query: call recuperarUnaEspecie('1');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.recuperarUnaEspecie does not exist
+Query: call recuperarUnaEspecie('1');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.recuperarUnaEspecie does not exist
+Query: call recuperarUnaEspecie('1');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.recuperarUnaEspecie does not exist
+Query: call recuperarUnaEspecie('1');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.recuperarUnaEspecie does not exist
+Query: call recuperarUnaEspecie('1');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.recuperarUnaEspecie does not exist
+Query: call recuperarUnaEspecie(1);
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.recuperarUnaEspecie does not exist
+Query: call recuperarUnaEspecie(1);
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.recuperarUnaEspecie does not exist
+Query: call recuperarUnaEspecie(1);
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_modificarEspecie does not exist
+Query: call spu_modificarEspecie('1','HOLA COMOESTAS','H001','H001','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','','error.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_modificarEspecie does not exist
+Query: call spu_modificarEspecie('1','HOLA COMO ESTAS','H001','H001','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','H000','error.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_modificarEspecie does not exist
+Query: call spu_modificarEspecie('1','11111111111111111111','H001','H001','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','H000','error.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_modificarEspecie does not exist
+Query: call spu_modificarEspecie(1,'11111111111111111111111','H001','H001','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','H000','error.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_modificarEspecie does not exist
+Query: call spu_modificarEspecie(1,'11111111111111111111','H001','H001','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','H000','');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_modificarEspecie does not exist
+Query: call spu_modificarEspecie(1,'333333333333333333','H001','H001','SDSDS','SDSDS', 'SDSD','SDSD','DFDFD','DFDF','DFDFD@CDCD','H000','1.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_listarEspecialidad does not exist
+Query: call spu_listarEspecialidad();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_listarEspecialidad does not exist
+Query: call spu_listarEspecialidad();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_listarEspecialidad does not exist
+Query: call spu_listarEspecialidad();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Duplicate entry 'C0001' for key 'PRIMARY'
+Query: call spu_insertarClase('REPTILES');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Duplicate entry 'C0001' for key 'PRIMARY'
+Query: call spu_insertarClase('REPTILES');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_listarEspecie; expected 1, got 0
+Query: call spu_listarEspecie();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_listarEspecie; expected 1, got 0
+Query: call spu_listarEspecie();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_listarEspecie; expected 1, got 0
+Query: call spu_listarEspecie();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_listarClase; expected 0, got 1
+Query: call spu_listarClase('');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_listarClase; expected 0, got 1
+Query: call spu_listarClase('');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_listarEspecialidad does not exist
+Query: call spu_listarEspecialidad();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_listarEspecialidad does not exist
+Query: call spu_listarEspecialidad();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_listarEspecialidad does not exist
+Query: call spu_listarEspecialidad();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbEspecies.spu_listarEspecialidad does not exist
+Query: call spu_listarEspecialidad();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Column 'idTAnalisisDiversidad' cannot be null
+Query: call spu_insertarAnalisisDiversidad(4,7,'2018-06-15','L001','');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Column 'idTAnalisisDiversidad' cannot be null
+Query: call spu_insertarAnalisisDiversidad(5,12,'2018-06-14','L001','');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Column 'idTAnalisisDiversidad' cannot be null
+Query: call spu_insertarAnalisisDiversidad(5,12,'2018-06-14','L001','DIRECTO');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect number of arguments for PROCEDURE dbEspecies.spu_shannon; expected 1, got 0
+Query: call spu_shannon();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect date value: '1998' for column 'pfecha' at row 1
+Query: call spu_shannon(2018-06-14);
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Incorrect date value: '1998' for column 'pfecha' at row 1
+Query: call spu_shannon(2018-06-14);
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Table 'DBEspecie.usuario' doesn't exist
+Query: select * from usuario where email = 'admin@isc.com' and password = '123456' and habilitado = 1
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarHabitat does not exist
+Query: call spu_listarHabitat();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarFamilia does not exist
+Query: call spu_listarFamilia();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarFamilia does not exist
+Query: call spu_listarFamilia();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarFamilia does not exist
+Query: call spu_listarFamilia();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarFamilia does not exist
+Query: call spu_listarFamilia();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarFamilia does not exist
+Query: call spu_listarFamilia();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarFamilia does not exist
+Query: call spu_listarFamilia();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarFamilia does not exist
+Query: call spu_listarFamilia();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarFamilia does not exist
+Query: call spu_listarFamilia();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarFamilia does not exist
+Query: call spu_listarFamilia();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarFamilia does not exist
+Query: call spu_listarFamilia();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Cannot add or update a child row: a foreign key constraint fails (`DBEspecie`.`TEspecie`, CONSTRAINT `TEspecie_ibfk_4` FOREIGN KEY (`idEstado`) REFERENCES `TEstado` (`idTEstado`))
+Query: call spu_modificarEspecie(1,'Nothocercus julius','F0032','O0001','C0001','Perdiz de Pecho Leonado', 'Tawny-breasted Tinamou','Perdiz de Pecho Leonado','','','','','error.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Cannot add or update a child row: a foreign key constraint fails (`DBEspecie`.`TEspecie`, CONSTRAINT `TEspecie_ibfk_1` FOREIGN KEY (`idFamilia`) REFERENCES `TFamilia` (`idTFamilia`))
+Query: call spu_modificarEspecie(1,'Nothocercus julius','','','C0001','Perdiz de Pecho Leonado', 'Tawny-breasted Tinamou','Perdiz de Pecho Leonado','','','','','error.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Cannot add or update a child row: a foreign key constraint fails (`DBEspecie`.`TEspecie`, CONSTRAINT `TEspecie_ibfk_4` FOREIGN KEY (`idEstado`) REFERENCES `TEstado` (`idTEstado`))
+Query: call spu_modificarEspecie(1,'Nothocercus julius','F0032','O0001','C0001','Perdiz de Pecho Leonado', 'Tawny-breasted Tinamou','Perdiz de Pecho Leonado','','','','','error.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Cannot add or update a child row: a foreign key constraint fails (`DBEspecie`.`TEspecie`, CONSTRAINT `TEspecie_ibfk_4` FOREIGN KEY (`idEstado`) REFERENCES `TEstado` (`idTEstado`))
+Query: call spu_modificarEspecie(1,'Nothocercus julius','F0032','O0001','C0001','Perdiz de Pecho Leonado', 'Tawny-breasted Tinamou','Perdiz de Pecho Leonado','','','','','error.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarHabitat does not exist
+Query: call spu_listarHabitat();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarEspecialidad does not exist
+Query: call spu_listarEspecialidad();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarEspecialidad does not exist
+Query: call spu_listarEspecialidad();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarEspecialidad does not exist
+Query: call spu_listarEspecialidad();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2,'2018-07-06','L0001','')' at line 1
+Query: call spu_modificarAnalisisDiversidad(1,,2,'2018-07-06','L0001','');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarHabitat does not exist
+Query: call spu_listarHabitat();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarHabitat does not exist
+Query: call spu_listarHabitat();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE DBEspecie.spu_listarHabitat does not exist
+Query: call spu_listarHabitat();
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Cannot add or update a child row: a foreign key constraint fails (`DBEspecie`.`TEspecie`, CONSTRAINT `TEspecie_ibfk_3` FOREIGN KEY (`idClase`) REFERENCES `TClase` (`idTClase`))
+Query: call spu_insertarEspecie('','','','','', '','','','','','','error.jpg');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Data too long for column 'idlug' at row 1
+Query: call spu_shannon('2019-01-25','2019-01-25','-- ELIGE UN LUGAR');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Data too long for column 'idlug' at row 1
+Query: call spu_shannon('2019-01-25','2019-01-25','-- ELIGE UN LUGAR');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Data too long for column 'idlug' at row 1
+Query: call spu_shannon('2019-01-25','2019-01-25','-- ELIGE UN LUGAR');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Data too long for column 'idlug' at row 1
+Query: call spu_shannon('2019-01-25','2019-01-25','-- ELIGE UN LUGAR');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Data too long for column 'idlug' at row 1
+Query: call spu_shannon('2019-01-25','2019-01-25','-- ELIGE UN LUGAR');
+
+File: /var/www/html/sysEspecies/Admin-isc/BD/AccesoDB.php
+Line: 49
+Code: 0
+Message: Data too long for column 'idlug' at row 1
+Query: call spu_shannon('2019-01-25','2019-01-25','--LUGAR');
+
+File: C:\xampp\htdocs\sysProducto\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbproducto.spu_recuperarUnProducto does not exist
+Query: call spu_recuperarUnProducto('1');
+
+File: C:\xampp\htdocs\sysProducto\BD\AccesoDB.php
+Line: 49
+Code: 0
+Message: PROCEDURE dbproducto.spu_recuperarUnProducto does not exist
+Query: call spu_recuperarUnProducto('1');
+
+File: C:\xampp\htdocs\sysProducto\BD\AccesoDB.php
+Line: 47
+Code: 1305
+Message: PROCEDURE dbproducto.spu_insertarProducto does not exist
+Query: call spu_insertarProducto('PALE DE CUADERNO');
+
+File: C:\xampp\htdocs\sysProducto\BD\AccesoDB.php
+Line: 47
+Code: 1305
+Message: PROCEDURE dbproducto.spu_eliminarProducto does not exist
+Query: call spu_eliminarProducto('2');
+
+File: C:\xampp\htdocs\sysProducto\BD\AccesoDB.php
+Line: 47
+Code: 1305
+Message: PROCEDURE dbproducto.spu_eliminarProducto does not exist
+Query: call spu_eliminarProducto('2');
+
+File: C:\xampp\htdocs\sysProducto\BD\AccesoDB.php
+Line: 47
+Code: 1305
+Message: PROCEDURE dbproducto.spu_recuperarUnProducto does not exist
+Query: call spu_recuperarUnProducto('1');
+
+File: C:\xampp\htdocs\sysProducto\BD\AccesoDB.php
+Line: 47
+Code: 1054
+Message: Unknown column 'NDAWND' in 'field list'
+Query: call spu_agregarProducto('DHKWAJKD',NDAWND,'KNDKWA');
+
